@@ -1,0 +1,10 @@
+DATE ,UBIT,DURATION,ACTIVITY & TOOL DESCRIPTION
+2023/2/15,jwu222,50 minutes,Wrote the code that apply the API to read the user input command -f and -r
+2023/2/15,jwu222,90 minutes,"apply max and min API to CLI, "
+2023/2/15,jwu222,170 minutes,"
+and bugfix for not compare element in first row max and min"
+2023/2/15,jwu222,250 minutes,fixed the bug for common inside the column
+2023/2/15,jwu222,30 minutes,added EXIT_FAILURE for no numeric data
+2023/2/16,jwu222,270 minutes,complete the API for -h command
+2023/2/16,jwu222,60 minutes,complete the API for -mean command
+2023/2/16,jwu222,60 minutes,complete the API for -records command
