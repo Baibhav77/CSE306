@@ -11,7 +11,7 @@ The following are the procedures our CSV program makes  after reading data from 
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
+$ git clone git@github.com:Baibhav77/CSE306.git
 
 $ cd lmao
 
